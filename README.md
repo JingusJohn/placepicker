@@ -1,4 +1,5 @@
 # placepicker
+
 From a provided list of restaurants or things, you're given two methods to arrive at a destination.
 
 For the time being, this application will not store user data. It will have hardcoded locations for the sole purpose of helping me and my friends pick a location at which to eat food.
